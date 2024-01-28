@@ -1,0 +1,10 @@
+.app{
+    background-image: url('./components/blue-smooth-textured-paper-background.jpg');
+}
+.app{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
